@@ -53,8 +53,6 @@ MySQL · PostgreSQL
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpxdan&show_icons=true&theme=transparent)  
 ![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dpxdan&layout=compact&theme=transparent)
 
-![Snake Animation](https://raw.githubusercontent.com/dpxdan/dpxdan/master/github-contribution-grid-snake-dark.svg)
-
 ---
 
 ### 📬 Contato
