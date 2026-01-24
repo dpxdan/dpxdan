@@ -1,71 +1,93 @@
-# 👋 Olá, eu sou Daniel Paixão
+<div align="center">
+  
+  # 👋 Olá, eu sou Daniel Paixão
 
-![Profile Views](https://komarev.com/ghpvc/?username=dpxdan&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/dpxdan?style=flat)
-![GitHub Stars](https://img.shields.io/github/stars/dpxdan?affiliations=OWNER&style=flat)
-![PHP](https://img.shields.io/badge/PHP-8892BF?logo=php&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![SIP.js](https://img.shields.io/badge/SIP.js-0082FC?logo=webrtc&logoColor=white)
-![VoIP](https://img.shields.io/badge/VoIP-Communication-FF6F00)
-![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-0078D4?logo=freenas&logoColor=white)
-![SIP](https://img.shields.io/badge/SIP-Telecom-4caf50)
-![Linux Debian](https://img.shields.io/badge/Debian-A81D33?logo=debian&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
-![APIs](https://img.shields.io/badge/Desenvolvimento%20de%20APIs-0066CC)
+  ### Desenvolvedor Backend | Especialista em Telecomunicações & VoIP
 
----
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=dpxdan&style=flat" alt="Profile Views" />
+    <img src="https://img.shields.io/github/followers/dpxdan?style=flat&logo=github" alt="GitHub Followers" />
+    <img src="https://img.shields.io/github/stars/dpxdan?affiliations=OWNER&style=flat&logo=github" alt="GitHub Stars" />
+  </p>
 
-**Desenvolvedor Backend especializado em Telecomunicações.**  
-Atuo criando soluções para comunicação em tempo real, VoIP, APIs e infraestrutura de telefonia, utilizando tecnologias como SIP, FreeSWITCH, WebRTC, SIP.js e Linux Debian.
-
----
-
-### 🚀 Tecnologias & Ferramentas
-
-**Linguagens & Frameworks:**  
-PHP · JavaScript · Laravel · CodeIgniter
-
-**Infra & Telecom:**  
-SIP · VoIP · FreeSWITCH · WebRTC · SIP.js
-
-**APIs & Backend:**  
-Desenvolvimento de APIs REST · Integrações em tempo real · Autenticação e controle de chamadas
-
-**Sistemas Operacionais:**  
-Linux (Debian)
-
-**Bancos de Dados:**  
-MySQL · PostgreSQL
+  <p align="center">
+    <a href="https://www.linkedin.com/in/danielpaixao-sipdev" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+    <a href="mailto:devdpxdaniel@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
+</div>
 
 ---
 
-### 📌 Projetos em Destaque
+## 🚀 Sobre mim
 
-- **FluxSBC** – Session Border Controller com controle inteligente de chamadas SIP.  
-- **FluxPBX** – Plataforma PBX para provedores e operações de telefonia.  
-- **WebRTC para FreeSWITCH** – Comunicação WebRTC integrada com infraestrutura VoIP e SIP.js.
+Sou **Desenvolvedor Backend** com foco no mercado de **Telecomunicações**. Minha paixão é transformar a comunicação em tempo real em soluções escaláveis e de alta performance.
 
----
+Atuo na arquitetura e desenvolvimento de sistemas **VoIP**, **PABX Multi-tenant** e infraestrutura de telefonia, integrando tecnologias modernas como **WebRTC** e **SIP** com a robustez do **Linux Debian**.
 
-### 📊 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dpxdan&show_icons=true&theme=transparent)  
-![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=dpxdan&layout=compact&theme=transparent)
+- 🔭 **Atualmente trabalhando em:** Session Border Controllers (SBC) e roteamento inteligente.
+- 💡 **Interesses:** Automação de infraestrutura, Otimização de Banco de Dados e Protocolos de Rede.
+- 🛠️ **Foco:** Criar soluções que unem a telefonia tradicional à modernidade da web.
 
 ---
 
-### 📬 Contato
+## 🛠️ Tecnologias & Ferramentas
 
-- **LinkedIn:** https://www.linkedin.com/in/danielpaixao-sipdev  
-- **E-mail:** devdpxdaniel@gmail.com
+<div align="center">
+
+### Linguagens & Scripting
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=flat-square&logo=lua&logoColor=white)
+![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+
+### Telecom & VoIP
+![FreeSWITCH](https://img.shields.io/badge/FreeSWITCH-0078D4?style=flat-square&logo=freenas&logoColor=white)
+![SIP.js](https://img.shields.io/badge/SIP.js-0082FC?style=flat-square&logo=webrtc&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![SIP](https://img.shields.io/badge/SIP-Telecom-FF6F00?style=flat-square)
+
+### Infraestrutura & Banco de Dados
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![APIs](https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white)
+
+</div>
 
 ---
 
-### 📎 Sobre mim
+## 📌 Projetos em Destaque
 
-Entusiasta de sistemas VoIP, APIs e automação. Apaixonado por integrar FreeSWITCH, SIP.js, WebRTC e infraestrutura SIP em arquiteturas modernas com Linux Debian e alta performance.
+| Projeto | Descrição |
+| :--- | :--- |
+| **[FluxSBC](https://github.com/dpxdan/sbc-fluxv6)** | 🛡️ Session Border Controller robusto com controle inteligente de chamadas SIP e segurança avançada. |
+| **[FluxPBX](https://github.com/dpxdan/fluxpbx)** | 📞 Plataforma PBX completa para provedores e operações de telefonia, focado em multi-tenancy. |
+| **[Flux-Phone](https://github.com/dpxdan/Flux-Phone)** | 🌐 Cliente WebRTC integrado com infraestrutura VoIP, permitindo chamadas direto do navegador via SIP.js. |
 
 ---
 
-⭐ *Se algum projeto te ajudou, considere deixar uma estrela!*
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpxdan&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpxdan&layout=compact&theme=dracula&locale=pt-br"/>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=dpxdan&theme=dracula&locale=pt-br" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dpxdan&theme=react&locale=pt-br" alt="Activity Graph" />
+</div>
+
+
+
+---
+
+<div align="center">
+  <sub>⭐ <i>Se meus projetos te ajudaram, deixe uma estrela e ajude a espalhar inovação em VoIP!</i> ⭐</sub>
+</div>
