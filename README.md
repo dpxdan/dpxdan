@@ -73,7 +73,7 @@ Atuo na arquitetura e desenvolvimento de sistemas **VoIP**, **PABX Multi-tenant*
 ## 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpxdan&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dpxdan&show_icons=true&theme=dracula&locale=pt-br&include_all_commits=true&show=prs_merged&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dpxdan&layout=compact&theme=dracula&locale=pt-br"/>
 </div>
 
