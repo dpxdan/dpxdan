@@ -29,7 +29,6 @@ Atualmente no desenvolvimento do **FluxSBC**: um Session Border Controller basea
 ## Em andamento
 
 - **FluxSBC** — roteamento SIP, Event Guard (bloqueio progressivo de IPs), módulo de co-billing com NFCom, migração SipPulse → FluxSBC
-- **RMS** — gerenciamento de recursos de mídia e offload
 - Suporte a Debian 12, migração para MySQL 8.0.x e modernização de ambientes legados
 
 ---
